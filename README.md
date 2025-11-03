@@ -17,8 +17,7 @@ Feedback, issues, or collaboration ideas are always welcome!
 
 ##  ⚙️ Projects
 
-
-## Public Write Ups
+## 📑 Public Write Ups
 
 
 
